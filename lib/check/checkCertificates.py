@@ -1,6 +1,7 @@
 import logging
 import subprocess
 import xml.etree.ElementTree as ET
+from agentcoreclient.exceptions import IgnoreResultException
 
 from .base import Base
 from .exceptions import UnresolvableException
