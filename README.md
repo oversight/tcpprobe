@@ -1,7 +1,7 @@
 [![CI](https://github.com/oversight/tcpprobe/workflows/CI/badge.svg)](https://github.com/oversight/tcpprobe/actions)
 [![Release Version](https://img.shields.io/github/release/oversight/tcpprobe)](https://github.com/oversight/tcpprobe/releases)
 
-# Oversight NMAP Probe
+# Oversight TCP Probe
 
 ## Docker build
 
